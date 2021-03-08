@@ -1,6 +1,6 @@
 # WhatsApp Clone
 ##### Clone do app de mensagens faltando apenas implementar o recurso de adicionar usuário, todos os usuários criados conseguem se ver na lista de contatos atualmente.
-##### Obs: Está sendo utilizado e-mail como forma de autenticação pois é inviável realizar simulações necessárias em ambiente de homologação.
+##### Obs: Está sendo utilizado e-mail como forma de autenticação, pois é inviável realizar as simulações com números reais em ambiente de homologação.
 ###### Imagens do app:
 ![](https://media.giphy.com/media/AJwfACQQVV7bQD57Ew/giphy.gif)
 ![](https://media.giphy.com/media/hDMMqzUlj19T7rVCOu/giphy.gif)
